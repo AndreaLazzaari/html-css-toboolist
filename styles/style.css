@@ -4,3 +4,29 @@
     box-sizing: border-box;
 }
 
+main{
+    background-color: rgb(186, 186, 187);
+    height: 5000px;
+}
+
+
+
+
+.struttura-header{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.titolo-header{
+    display: inline-block;
+    font-size: 50px;
+    vertical-align: text-bottom;
+}
+
+
+
+
+#logo{
+    width: 60px;
+    height: 60px;
+}
