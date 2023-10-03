@@ -57,8 +57,38 @@ main{
     border: none;
 }
 
-.box-task{
-    
+.contenitore{
+    width: 64px;
+    height: 21px;
+    border-radius: 11px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+
+}
+
+.box-blu{
+    background-color: #1E90FF;
+}
+
+.box-viola{
+    background-color: purple;
+}
+
+.box-verde{
+    background-color: green;
+}
+
+.box-arancione{
+    background-color: orangered;
+}
+
+.box-rosa{
+    background-color: palevioletred;
+}
+
+.box-verde-chiaro{
+    background-color: lightgreen;
 }
 
 .titoli-sezione{
@@ -77,15 +107,6 @@ main{
     list-style: none; /* Remove default bullets */
   /* } */ */
 
-
-  /* ::marker {
-    unicode-bidi:plaintext;
-    font-variant-numeric:calc(&#176);
-    text-transform: none;
-    text-indent: 0px !important;
-    text-align: start !important;
-    text-align-last: start !important;
-  } */
 
 
 #logo{
