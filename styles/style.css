@@ -5,7 +5,7 @@
 }
 
 main{
-    background-color: rgb(186, 186, 187);
+    background-color: #DCDCDC;
     height: 5000px;
 }
 
@@ -23,6 +23,14 @@ main{
     vertical-align: text-bottom;
 }
 
+.box{
+    background-color: white;
+    height: 72px;
+    width: 901px;
+    margin: 50px 300px 50px;
+    display: inline-block;
+    border-radius: 8px;
+}
 
 
 
