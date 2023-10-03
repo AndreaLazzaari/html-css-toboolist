@@ -27,9 +27,20 @@ main{
     background-color: white;
     height: 72px;
     width: 901px;
-    margin: 50px 300px 50px;
+}
+   
+
+.box-bottoni{
+    margin: 50px 300px 5px;
     display: inline-block;
     border-radius: 8px;
+}
+
+
+.box-task{
+    margin: 5px 300px;
+    height: 1000px;
+
 }
 
 .bottone{
@@ -37,6 +48,7 @@ main{
     text-align: center;
     color: white;
     border-radius: 5px;
+    
 }
 .bottone-blu{
     background-color: #1E90FF;
@@ -44,6 +56,21 @@ main{
     margin-top: 25px;
     border: none;
 }
+
+.box-task{
+    
+}
+
+.titoli-sezione{
+    display: inline-block;
+
+}
+
+
+
+
+
+
 
 #logo{
     width: 60px;
