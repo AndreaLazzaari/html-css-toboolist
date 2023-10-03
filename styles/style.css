@@ -32,7 +32,18 @@ main{
     border-radius: 8px;
 }
 
-
+.bottone{
+    width: 80px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+.bottone-blu{
+    background-color: #1E90FF;
+    margin-left: 45px;
+    margin-top: 25px;
+    border: none;
+}
 
 #logo{
     width: 60px;
