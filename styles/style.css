@@ -63,13 +63,29 @@ main{
 
 .titoli-sezione{
     display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 40px 80px 5px 80px;
+}
+
+.elenco{
+    margin: 5px 90px 15px 100px
 
 }
 
+/* ul {
+    list-style: none; /* Remove default bullets */
+  /* } */ */
 
 
-
-
+  /* ::marker {
+    unicode-bidi:plaintext;
+    font-variant-numeric:calc(&#176);
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+  } */
 
 
 #logo{
