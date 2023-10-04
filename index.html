@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../html-css-toboolist/styles/style.css">
 </head>
 <body>
-    <!-- lodo e titolo -->
+    <!-- logo e titolo -->
     <header class="struttura-header">
         <img id="logo" src="./img/Logo.png" alt="logo-header">
         <h1 class="titolo-header">
@@ -17,13 +17,18 @@
 
     <main>
         <!-- contenitori testo -->
+        <!-- meglio la section ai div -->
         <div class="box box-bottoni">
+            <!-- meglio usare il tag button no input type -->
            <input type="button" value="Add Task" class="bottone bottone-blu"> 
+           <!-- anche questo è un bottone -->
             <input type="text" placeholder="Add Section" class="bottone">
         </div>
         
         <div class="box box-task">
+            <!-- non è questo uno span ma direttamente un ul -->
             <span class="titoli-sezione">▼ New Task </span>
+            <!-- dentro li metto lo span per creare e poi modificare il check -->
                 <ul class="elenco">
                     <li>Quarterly Newsletter <div class="contenitore box-blu">Editorial</div></li>
                 </ul>

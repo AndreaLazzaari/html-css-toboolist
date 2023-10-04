@@ -11,7 +11,7 @@ main{
 
 
 
-
+/* quì va messo del padding e no i margini */
 .struttura-header{
     margin-left: 30px;
     margin-top: 15px;
@@ -29,7 +29,7 @@ main{
     width: 901px;
 }
    
-
+/* per creare un solo elemento bastava mettere un bordo bottom */
 .box-bottoni{
     margin: 50px 300px 5px;
     display: inline-block;
